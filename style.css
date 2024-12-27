@@ -1,0 +1,30 @@
+.pricing-table {
+    margin-left: 50px;
+    width: 250px;
+    height: 615px;
+    border: 5px solid rgb(255, 217, 0);
+    border-radius: 25px;
+    background-color: rgba(0, 255, 255, 0.806);
+    text-align: center;
+    font-size: 25px;
+}
+
+.package-name {
+    margin-top: 20px;
+}
+
+select {
+    font-size: 25px;
+    padding: 3px;
+    text-align: center;
+    appearance: none;
+    background-color: rgba(255, 72, 0, 0.842);
+    color: azure;
+}
+
+.button-primary {
+    height: 50px;
+    width: 70px;
+    font-size: 30px;
+    border-radius: 15%;
+}
